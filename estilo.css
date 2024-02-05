@@ -3,13 +3,13 @@ body {
     overflow-y: hidden;
     background-image: url(./Imagem/Imagem.jpeg);
     background-repeat: no-repeat;
-    background-size: 425px 650px;
+    background-size: 425px 750px;
 }
 .container {
     display: flex;
     padding-left: 50px;
     padding-right: 50px;
-    margin-top: 450px;
+    margin-top: 550px;
 }
 .column {
     flex: 1;
