@@ -3,7 +3,7 @@ body {
     overflow-y: hidden;
     background-image: url(./Imagem/Imagem.jpeg);
     background-repeat: no-repeat;
-    background-size: 425px 753px;
+    background-size: 425px 760px;
 }
 .container {
     display: flex;
